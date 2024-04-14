@@ -1,0 +1,2 @@
+# myprojtct
+me new project
