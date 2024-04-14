@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#iz {
+    margin: 20px;
+    padding: 20px;
+}
+
+#mainiz {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+#miz1 {
+    padding-left: 10px;
+}
+
+#miz2 {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+#tmainiz {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#tmiz1 {
+    padding-right: 30px;
+}
+
+#tmiz2 {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+#thmainiz {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#thmiz1 {
+    padding-right: 30px;
+}
+
+#thmiz2 {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+
+#hi {
+    margin-top: 40px;
+    padding-top: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    clear: both;
+}
+
+#mainhi {
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#mhi1 {
+    padding-right: 30px;
+}
+
+#mhi2 {
+    margin-left: 45px;
+    margin-right: 10px;
+}
+
+#tmainhi {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#tmhi1 {
+    padding-right: 40px;
+}
+
+#tmhi2 {
+    margin-left: 60px;
+    margin-right: 10px;
+}
+
+#thmainhi {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#thmhi1{
+    padding-right: 20px;
+}
+
+#a1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#a2 {
+    margin-left: 85px;
+    margin-right: 10px;
+}
+
+#zagl {
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
